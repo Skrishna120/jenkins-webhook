@@ -1,1 +1,6 @@
 This is a test file for github-webook
+
+Need to select 
+GitHub hook trigger for GITScm polling - in jenkins
+
+Github- repo- settings - webhook - add webhook - jenkins path
